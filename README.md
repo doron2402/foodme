@@ -1,5 +1,10 @@
 # FoodMe App — a workshop app built with AngularJS
 
+## My Changes:
+
+	1. Easier way to start the app `npm start`, after you `npm install` of course.
+	2. login and authentication.
+
 Simplified meal ordering app for local restaurants built with AngularJS
 and node.js backend.
 
